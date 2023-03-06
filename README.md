@@ -1,5 +1,5 @@
 # Halloween Recruit
 
-[Website link](https://github.com/facebook/create-react-app).
+[CLICK HERE TO VIEW](https://halloween-recruit.netlify.app/).
 
 ## Search for your favourite monsters to recruit on the night of halloween.
